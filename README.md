@@ -146,24 +146,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aaditi1207&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditi1207&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
 
 # 💡 DevOps Quote
